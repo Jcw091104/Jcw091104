@@ -42,7 +42,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-https//coursera.org/share/3d17b4ce0dac002d497405008d4cfe2a
+    <img
+    src="
 
 ## Projects
 - Botium Toys Security Audit Challenge
