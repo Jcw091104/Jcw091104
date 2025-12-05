@@ -42,8 +42,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-    <img
-    src="
+<a href="https://www.coursera.org/account/accomplishments/verify/TOS114CRNL0S?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse"><img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge">
+
 
 ## Projects
 - Botium Toys Security Audit Challenge
